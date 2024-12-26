@@ -1,5 +1,7 @@
-Distributed Systems
-Distributed Computing
-Kubernetes
+# Interests
+ - Distributed Systems
+ - Distributed Computing
+ - Kubernetes
 
-<img src="Go-Logo_Aqua.png" alt="golanglogo" width="200"/>
+# Languages
+<img src="Go-Logo_Aqua.png" alt="golanglogo" width="100" height="100"/>
