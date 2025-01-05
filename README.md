@@ -1,7 +1,7 @@
-https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=aura_dark
-https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=jolly
-https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=omni
-https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=dracula
+![sqmstats](https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=aura_dark)</p>
+![sqmstats](https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=radical)</p>
+![sqmstats](https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=dracula)</p>
+![sqmstats](https://github-readme-stats.vercel.app/api?username=sqm24&show_icons=true&theme=bear)</p>
 
 a- Distributed Systems
  - Distributed Computing
